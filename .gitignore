@@ -1,3 +1,3 @@
-node_modules/
-scraper.rar/
-.env/
+/node_modules
+.scraper.rar
+..env
